@@ -1,5 +1,7 @@
 ### 👋
 
+#### Data Science
+
 ***`(A)`** A political scientist who loves elections* 🗳️
 
 ***`(B)`** A Work in progress data scientist who mainly works with R* 💻
