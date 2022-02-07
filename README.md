@@ -1,4 +1,4 @@
-#  👋 I am TuQmano, a.k.a. Juan Pablo Ruiz Nicolini. 
+#  👋 I am TuQmano, a.k.a. Juan Pablo Ruiz Nicolini [![:name status badge](https://tuqmano.r-universe.dev/badges/:name)](https://tuqmano.r-universe.dev)
 
 ## `(A)` PolSci
 
